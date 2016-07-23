@@ -11,6 +11,7 @@ Eclipse library project based on:<br/>
 
 **References:**
 - https://developers.google.com/android/guides/releases#june_2016_-_v92
+- https://developers.google.com/cast/docs/release-notes
 
 **SVN checkout:**
 * https://github.com/dandar3/android-google-play-services-cast/tags/9.2.1
