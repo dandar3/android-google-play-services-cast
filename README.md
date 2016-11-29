@@ -10,7 +10,7 @@ Eclipse library project based on:<br/>
 - [dandar3/android-support-v7-mediarouter](https://github.com/dandar3/android-support-v7-mediarouter/tree/25.0.1)
 
 **References:**
-https://developers.google.com/cast/docs/release-notes#november-21-2016
+- https://developers.google.com/cast/docs/release-notes#november-21-2016
 - https://developers.google.com/android/guides/releases#november_2016_-_v100
 
 **SVN checkout:**
