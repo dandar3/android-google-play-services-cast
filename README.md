@@ -7,6 +7,7 @@ Eclipse library project based on:<br/>
 - `Android 7.1 (API 25) SDK Platform`
 - [dandar3/android-google-play-services-base](https://github.com/dandar3/android-google-play-services-base/tree/11.0.2)
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/11.0.2)
+- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/11.0.2)
 - [dandar3/android-support-v7-mediarouter](https://github.com/dandar3/android-support-v7-mediarouter/tree/25.4.0)
 
 **References:**
